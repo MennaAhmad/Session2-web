@@ -24,7 +24,26 @@
 {
     margin-left:640px ;
 }
+.container .first-button{
+    border-radius: 20 px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
 
+}
+.container .sec-button{
+    border-radius: 20 px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
 
 body , html {
     height: 100%;
